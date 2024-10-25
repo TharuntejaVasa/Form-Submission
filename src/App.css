@@ -1,0 +1,28 @@
+/* App.css */
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 10px;
+}
+
+input,
+textarea {
+  padding: 8px;
+  margin-top: 5px;
+}
+
+button {
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
